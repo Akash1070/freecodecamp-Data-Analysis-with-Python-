@@ -1,9 +1,9 @@
-# ** **
+# **Data Analysis with Python by freecodecamp**
 
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg)
 
 Download Additional Files :
-• This repository consists of files required to deploy a 
+• This repository consists of files containing study notes and assignments solutions
 
 • Please do ⭐ the repository, if it helped you in anyway.
 
@@ -13,26 +13,13 @@ Download Additional Files :
 - [@Akash Kumar Jha](https://github.com/Akash1070)
 
 
-## Deployment
-
+## Projects
+  1. Mean-Variance-Standard Deviation Calculator
+  2. Demographic Data Analyzer
+  3. Medical Data Visualizer
+  4. Page View Time Series Visualizer
+  5. Sea Level Predictor
   
-## Installation
-
-To install the libraries used in this project. Follow the 
-below steps:
-
-```bash
-
-
-```
-    
-## Running Flask Api
-
-To run tests, run the following command
-
-```bash
-  python app.py
-```
 
 ## 🚀 About Me
 
