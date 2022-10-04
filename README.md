@@ -1,8 +1,10 @@
 # **Data Analysis with Python by freecodecamp**
 
 ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg)
+![Numpy](https://img.shields.io/badge/Library-Numpy-blue.svg)
+![Pandas](https://img.shields.io/badge/Library-Pandas-red.svg)
 
-Download Additional Files :
+
 • This repository consists of files containing study notes and assignments solutions
 
 • Please do ⭐ the repository, if it helped you in anyway.
